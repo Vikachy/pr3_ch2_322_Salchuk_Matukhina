@@ -6,7 +6,39 @@
         xmlns:local="clr-namespace:pr3_ch2_322_Salchuk_Matukhina"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Операнд 1:" VerticalAlignment="Center" Margin="5" />
+        <TextBox Grid.Row="0" Grid.Column="1" Name="Operand1TextBox" Width="120" Margin="5" />
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Операнд 2:" VerticalAlignment="Center" Margin="5" />
+        <TextBox Grid.Row="1" Grid.Column="1" Name="Operand2TextBox" Width="120" Margin="5" />
+
+        <!-- Операции -->
+        <Label Grid.Row="0" Grid.Column="2" Content="Операция:" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="5" />
+        <StackPanel Grid.Row="1" Grid.Column="2" Grid.RowSpan="2" Orientation="Vertical" Margin="5">
+            <RadioButton x:Name="AdditionRadioButton" GroupName="Operation" Content="+" IsChecked="False" Margin="3" />
+            <RadioButton x:Name="SubtractionRadioButton" GroupName="Operation" Content="-" IsChecked="False" Margin="3" />
+            <RadioButton x:Name="MultiplicationRadioButton" GroupName="Operation" Content="*" IsChecked="False" Margin="3" />
+            <RadioButton x:Name="DivisionRadioButton" GroupName="Operation" Content="/" IsChecked="False" Margin="3" />
+        </StackPanel>
+
+        <!-- Кнопка "Вычислить" -->
+        <Button Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Content="Вычислить" HorizontalAlignment="Center" Width="100" Margin="10" Click="CalculateButton_Click" />
+
+        <!-- Результат -->
+        <TextBlock Grid.Row="3" Grid.Column="2" Name="ResultTextBlock" Width="120" TextAlignment="Left" />
     </Grid>
 </Window>

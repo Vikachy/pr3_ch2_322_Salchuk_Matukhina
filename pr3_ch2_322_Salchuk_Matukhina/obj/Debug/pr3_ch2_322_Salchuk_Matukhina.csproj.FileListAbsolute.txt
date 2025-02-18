@@ -1,0 +1,15 @@
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\bin\Debug\pr3_ch2_322_Salchuk_Matukhina.exe.config
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\bin\Debug\pr3_ch2_322_Salchuk_Matukhina.exe
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\bin\Debug\pr3_ch2_322_Salchuk_Matukhina.pdb
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina.csproj.AssemblyReference.cache
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\MainWindow.g.cs
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\App.g.cs
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina_MarkupCompile.cache
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina_MarkupCompile.lref
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\MainWindow.baml
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina.g.resources
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina.Properties.Resources.resources
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina.csproj.GenerateResource.cache
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina.csproj.CoreCompileInputs.cache
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina.exe
+C:\Users\227095\source\repos\pr3_ch2_322_Salchuk_Matukhina\pr3_ch2_322_Salchuk_Matukhina\obj\Debug\pr3_ch2_322_Salchuk_Matukhina.pdb
